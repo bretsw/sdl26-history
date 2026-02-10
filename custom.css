@@ -113,20 +113,24 @@ a, a > code {
   font-weight: 900;
   text-align: left;
   margin-left: 10px;
-  padding-top: 24px;
+  margin-bottom: -24px;
   line-height: 1.0em;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  display: inline-block;
 }
 .title-slide h2  {
-  margin-top: 20px;
-  padding-bottom: -20px;
-  color: #000;
+  color: #444;
   text-shadow: none;
   font-weight: 400;
   font-size: 28px;
   text-align: left;
   margin-left: 10px;
-  margin-bottom: 24px;
+  margin-bottom: 12px;
   line-height: 1.2em;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  display: inline-block;
 }
 .title-slide h3  {
   color: #782F40;
